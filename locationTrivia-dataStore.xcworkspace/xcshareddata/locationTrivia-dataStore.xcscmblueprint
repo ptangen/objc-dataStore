@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "62E4F65351EB004DEBE3D799B8161244394F09EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3E897ED9F821AA46FD50889CB6988ADC2EB478C8" : 0,
+    "62E4F65351EB004DEBE3D799B8161244394F09EB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D7B1FB9-A0BA-49BD-BD58-8E323E755CAF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3E897ED9F821AA46FD50889CB6988ADC2EB478C8" : "..",
+    "62E4F65351EB004DEBE3D799B8161244394F09EB" : "locationTrivia-DataStoreRelationships\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "locationTrivia-dataStore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "locationTrivia-dataStore.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/ios-0616-old.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E897ED9F821AA46FD50889CB6988ADC2EB478C8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/locationTrivia-DataStoreRelationships.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62E4F65351EB004DEBE3D799B8161244394F09EB"
+    }
+  ]
+}
